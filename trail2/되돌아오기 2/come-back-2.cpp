@@ -14,7 +14,6 @@ int main() {
 
     int x=0,y=0;
     int dir=0;
-    int dist;
 
     int time=0;
     
